@@ -10,7 +10,7 @@ Including one report and one slides
 Folder Structure:
 ```
 INFO_535_ADM_Slides.pptx/
-INFO_535_Applied_Data_Mining_Report.pdf/
+INFO_535_ADM_Report.pdf/
 INFO_535_ADM_CNN.ipynb/
 INFO_535_ADM_Preprocessing.ipynb
 README.md
