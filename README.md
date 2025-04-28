@@ -4,7 +4,7 @@ Original raw dataset:
 https://www.kaggle.com/competitions/birdclef-2025/data?select=train_soundscapes
 
 INFO_535_ADM_Preprocessing and INFO_535_ADM_CNN are codes to handle data preprocessing and modeling.
-mel_spectrograms are the data after preproessing.
+mel_spectrograms are the data after preproessing.  
 Including one report and one slides
 
 Folder Structure:
