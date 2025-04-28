@@ -1,10 +1,19 @@
 # adm_cnn
 
-dataset:
+Original raw dataset:
 https://www.kaggle.com/competitions/birdclef-2025/data?select=train_soundscapes
+
+INFO_535_ADM_Preprocessing and INFO_535_ADM_CNN are codes to handle date preprocessing and modeling.
+mel_spectrograms are the date after preproessing.
+including one report and one slides
 
 Folder Structure:
 ```
+INFO_535_ADM_Slides.pptx/
+INFO_535_Applied_Data_Mining_Report.pdf/
+INFO_535_ADM_CNN.ipynb/
+INFO_535_ADM_Preprocessing.ipynb
+README.md
 taxonomy.csv/   
 mel_spectrograms/ 
 ├── 21038/               
